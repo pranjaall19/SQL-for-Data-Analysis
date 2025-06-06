@@ -80,4 +80,3 @@ ON ecommerce_orders (`Customer Name`);
 
 *pranjal Patil*  
 Final Year B.Tech – CSE | Aspiring Data Analyst  
-[LinkedIn](#) (Add your link)
